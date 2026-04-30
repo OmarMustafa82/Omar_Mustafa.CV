@@ -14,13 +14,11 @@
 </a> linkedin.com/in/omar-mustafa
 
 ## Courses & Training
-_______________________________________________________________________________________________________
 • Completed a course in **Artificial Intelligence** at the **British University in Egypt (BUE)**.
 • Completed a summer internship at **Misr Petroleum Company**.
 
 
 ## Projects & Competitions
-_______________________________________________________________________________________________________
 • Competed in a university programming contest organized by **ACPC (ACU Team)**.
 • Created small **C++ projects** and university assignments demonstrating learned
 concepts
@@ -28,7 +26,6 @@ concepts
 
 
 ## Languages
-_______________________________________________________________________________________________________
 **Arabic:** Native
 **English:** Strong (Reading, writing, and speaking) — currently at B2
 
