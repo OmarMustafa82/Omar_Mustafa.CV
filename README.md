@@ -6,7 +6,7 @@
   <img src="https://img.icons8.com/?size=100&id=6H65NWsqha0Z&format=png&color=000000" width="20"/>
 </a>
 
-<a href="tel:+201064319991">
+<a href="+201064319991">
   <img src="https://img.icons8.com/?size=100&id=6LLpOo4hXIRa&format=png&color=000000" width="20"/>
 </a>
 <a href="https://https://www.linkedin.com/in/omar-mustafa-34853a329?utm_source=share_via&utm_content=profile&utm_medium=member_android">
